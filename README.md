@@ -33,7 +33,7 @@ All the data (lap charts) are collected from MotoGP official website. <br>
 
 ​ b) data aggregation (tables) <br>
 
-compute the summary statitics - grouped by rider, rider and year, rider and circuit...
+- compute the summary statitics - grouped by rider, rider and year, rider and circuit...
 
 ​ c) plot graphs <br>
  
