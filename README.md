@@ -63,7 +63,5 @@ All the data (lap charts) are collected from MotoGP official website. <br>
 ​ c) visualizations (barplot, boxplot, histograms, scatterplot...) <br>
  
 - Efficiency vs Volatility, e.g. Joan Mir (rookie) vs Alex Rins (veteran) <br>
-- Riders' annual trajectories (to study riders' improvement)
-- A comparison of riders' performances by circuit <br>
-
-## Conclusion & Analysis
+- Riders' annual efficiency trajectories
+- Riders' performances by circuit <br>
