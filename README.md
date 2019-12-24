@@ -2,7 +2,7 @@
 ## MotoGP rider analysis
 
 Author: Zheng Jing <br>
-Programming Language 1: Python (.ipynb) <br>
+Programming Language 1: Python (index_trajectory.ipynb) <br>
 Programming Language 2: R (.rmd) <br>
 
 ## Goals
@@ -69,3 +69,12 @@ All the data (lap charts) are collected from MotoGP official website. <br>
 ## Conclusion & Analysis
 
 see report.pdf
+
+
+## Supplementary Files
+
+​ a) exponentially weighted predator & prey indexes (.ipynb)
+
+​ b) passing quarter & passing position analysis (histogram/heatmap.ipynb)
+
+​ c) softmax (.ipynb)
