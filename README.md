@@ -8,13 +8,13 @@ Programming Language: Python (jupyter notebook) <br>
 
 for all races and all riders, we
 
-​ a) computed the predator index and prey index
+​ a) implemented the predator index and prey index
 
-​ b) computed the net index, volatility index, and efficiency index
+​ b) implemented the net index, volatility index, and efficiency index
 
 ​ c) developed weighted predator & prey indexes (additional weight & exponential weight)
 
-​ d) computed summary statistics & data aggregation
+​ d) implemented summary statistics & data aggregation
 
 ​ e) visualizaions of riders' annual trajectory (2015 - 2019)
 
