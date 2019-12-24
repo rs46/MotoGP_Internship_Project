@@ -58,7 +58,7 @@ All the data (lap charts) are collected from MotoGP official website. <br>
 
 - compute the summary statitics - grouped by rider, rider and year, rider and circuit...
 
-*by looking at the summary table, we are able to break down riders' performance in parts: offensive, defensive, volatility, efficiency, and final position*
+- by looking at the summary table, we are able to break down riders' performance in parts: offensive, defensive, volatility, efficiency, and final position
 
 ​ c) visualizations (barplot, boxplot, histograms, scatterplot...) <br>
  
