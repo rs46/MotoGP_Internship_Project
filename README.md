@@ -37,7 +37,7 @@ All the data (lap charts) are collected from MotoGP official website. <br>
 
 ​ c) plot graphs <br>
  
-- efficiency vs volatility, of Joan Mir (rookie) vs Alex Rins (veteran) <br>
+- efficiency vs volatility, e.g. Joan Mir (rookie) vs Alex Rins (veteran) <br>
 - annual trajectory + Circuit difficulty <br>
 
 ## Conclusion & Analysis
