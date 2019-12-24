@@ -29,13 +29,13 @@ All the data (lap charts) are collected from MotoGP official website. <br>
 
 ## Methodology
 
-​ data cleaning 
+​ a) data cleaning 
 
-​ data aggregation (tables) <br>
+​ b) data aggregation (tables) <br>
 
 compute the summary statitics - grouped by rider, rider and year, rider and circuit...
 
-​ plot graphs <br>
+​ c) plot graphs <br>
  
 - efficiency vs volatility, of Joan Mir (rookie) vs Alex Rins (veteran) <br>
 - annual trajectory + Circuit difficulty <br>
