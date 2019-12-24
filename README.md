@@ -73,8 +73,8 @@ see report.pdf
 
 ## Supplementary Files
 
-​ a) exponentially weighted predator & prey indexes (.ipynb)
+​ a) exponentially weighted predator & prey indexes (exponentially_weighted_indexes.ipynb)
 
 ​ b) passing quarter & passing position analysis (histogram/heatmap.ipynb)
 
-​ c) softmax (.ipynb)
+​ c) softmax (softmax.ipynb)
