@@ -60,7 +60,7 @@ All the data (lap charts) are collected from MotoGP official website. <br>
 
 *by looking at the summary table, we are able to break down riders' performance in parts: offensive, defensive, volatility, efficiency, and final position*
 
-​ c) visualizations (barplot, boxplot, scatterplot...) <br>
+​ c) visualizations (barplot, boxplot, histograms, scatterplot...) <br>
  
 - Efficiency vs Volatility, e.g. Joan Mir (rookie) vs Alex Rins (veteran) <br>
 - Riders' annual trajectories (to study riders' improvement)
