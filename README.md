@@ -14,7 +14,7 @@ for all races:
 
 ​ c) compute summary statistics & data aggregation
 
-​ d) visualizaions of riders' trajectory
+​ d) visualizaions of riders' annual trajectory (2015 - 2019)
 
 
 ## Data
