@@ -6,15 +6,20 @@ Programming Language: Python (jupyter notebook) <br>
 
 ## Goals
 
-for all races:
+for all races and all riders, we
 
-​ a) implement the predator index and prey index
+​ a) computed the predator index and prey index
 
-​ b) implement the net index, volatility index, and efficiency index
+​ b) computed the net index, volatility index, and efficiency index
 
-​ c) compute summary statistics & data aggregation
+​ c) developed weighted predator & prey indexes (additional weight & exponential weight)
 
-​ d) visualizaions of riders' annual trajectory (2015 - 2019)
+​ d) computed summary statistics & data aggregation
+
+​ e) visualizaions of riders' annual trajectory (2015 - 2019)
+
+## Indexes Description & Algorithm design
+copy paste
 
 
 ## Data
@@ -24,5 +29,13 @@ All the data (lap charts) are collected from MotoGP official website.
 
 ## Methodology
 
+​ data cleaning 
+
+​ data aggregation (tables)- 
+compute the summary statitics of all indexes - grouped by rider, rider and year, rider and circuit...
+
+​ plot graphs
+ efficiency vs volatility, of Joan Mir (rookie) vs Alex Rins (veteran)
+ annual trajectory + Circuit difficulty
 
 ## Conclusion & Analysis
