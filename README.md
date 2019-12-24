@@ -2,7 +2,8 @@
 ## MotoGP rider analysis
 
 Author: Zheng Jing <br>
-Programming Language: Python (.ipynb) & R (.rmd) <br>
+Programming Language 1: Python (.ipynb) <br>
+Programming Language 2: R (.rmd) <br>
 
 ## Goals
 
