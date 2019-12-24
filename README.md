@@ -2,7 +2,7 @@
 ## MotoGP rider analysis
 
 Author: Zheng Jing <br>
-Programming Language: Python (jupyter notebook) <br>
+Programming Language: Python (.ipynb) & R (.rmd) <br>
 
 ## Goals
 
@@ -32,6 +32,8 @@ All the data (lap charts) are collected from MotoGP official website. <br>
 ​ a) data cleaning 
 
 ​ b) data aggregation (tables) <br>
+
+** by looking at the summary table, we are able to break down riders' performance in parts: offensive, defensive, volatility, and efficiency move, grid position (determiend by qualifying race), and final position **
 
 - compute the summary statitics - grouped by rider, rider and year, rider and circuit...
 
