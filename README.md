@@ -34,7 +34,7 @@ All the data (lap charts) are collected from MotoGP official website. <br>
 
 ​ b) data aggregation (tables) <br>
 
-** by looking at the summary table, we are able to break down riders' performance in parts: offensive, defensive, volatility, and efficiency move, grid position (determiend by qualifying race), and final position **
+*by looking at the summary table, we are able to break down riders' performance in parts: offensive, defensive, volatility, and efficiency move, grid position (determiend by qualifying race), and final position*
 
 - compute the summary statitics - grouped by rider, rider and year, rider and circuit...
 
