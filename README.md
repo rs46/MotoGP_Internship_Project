@@ -21,25 +21,29 @@ for all races and all riders, we
 
 ## Indexes Descriptions & Algorithm design
 
-Grid = Rider's starting position, determined from the qualifying race
 
-Final = Rider's final position
+***Grid*** = Rider's starting position, determined from the qualifying race
 
-Predator = the total number of positions that a rider moves forward, regardless of him moving backward
+***Final*** = Rider's final position
 
-Prey = the total number of positions that a rider moves backward, regardless of him moving forward
+***Predator*** = the total number of positions that a rider moves forward, regardless of him moving backward
 
-Net = Predator - Prey = Final - Grid, (which measures a rider's pure movement/displacement throughout the entire race)
+***Prey*** = the total number of positions that a rider moves backward, regardless of him moving forward
 
-Volatility = Predator + Prey, (which measures a rider's riding style - high means aggressive; low means conservative)
+***Net*** = Predator - Prey = Final - Grid, (which measures a rider's pure movement/displacement throughout the entire race)
 
-Efficiency = Net/Volatility, (the percentage of efficient movements)
+***Volatility*** = Predator + Prey, (which measures a rider's riding style - high means aggressive; low means conservative)
+
+***Efficiency*** = Net/Volatility, (the percentage of efficient movements)
 
 - For example, a rider has net =2 and volatility = 10 . That means only 2 out of 10 moves are efficient for moving forward, and the other 8 moves are 4-4 cancelled off. So net/volatility = 2/10 = 20% gives us the efficiency of the rider’s movement.
 
-Weighted Predator = Predator - Grid, (a way to compare riders' offensive ability by taking grid position into account)
+- Since volatility is always positive but net can be negative, let’s consider another example with net = -2 and volatility = 10. That means 2 of 10 moves are counter-efficient for moving forward, and again the other 8 moves are 4-4 cancelled off. So net/volatility = -20% gives us a negative efficiency of the rider’s movement.
 
-Weighted Prey = the number of total riders - Grid - Prey, (a way to compare riders' defensive ability by taking grid position into account)
+***Weighted Predator*** = Predator - Grid, (a way to compare riders' offensive ability by taking grid position into account)
+
+***Weighted Prey*** = the number of total riders - Grid - Prey, (a way to compare riders' defensive ability by taking grid position into account)
+
 
 ## Data
 https://www.motogp.com/en/Results+Statistics <br>
