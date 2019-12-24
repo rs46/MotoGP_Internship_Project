@@ -1,2 +1,1 @@
-# MotoGP_Internship_Project
-Internship project sample
+# Internship Project - MotoGP sports analysis
