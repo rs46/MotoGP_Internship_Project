@@ -7,17 +7,17 @@ Programming Language 2: R (.rmd) <br>
 
 ## Goals
 
-for all races and all riders, we
+for all races and all riders, we developed
 
-​ a) implemented the predator index and prey index
+​ a) predator index and prey index
 
-​ b) implemented the net index, volatility index, and efficiency index
+​ b) net index, volatility index, and efficiency index
 
-​ c) developed weighted predator & prey indexes (additional weight & exponential weight)
+​ c) weighted predator & prey indexes (additional weight & exponential weight)
 
-​ d) implemented summary statistics & data aggregation
+​ d) summary statistics & data aggregation
 
-​ e) visualizaions of riders' annual trajectory (2015 - 2019)
+​ e) visualizaions of riders' annual trajectories (2015 - 2019)
 
 ## Indexes Descriptions & Algorithm design
 
